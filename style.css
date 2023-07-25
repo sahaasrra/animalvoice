@@ -1,0 +1,42 @@
+body
+{
+    font-family:'Special Elite',cursive;
+    background:white;
+}
+
+.header_div
+{
+    background-color:hotpink;
+    color: aqua;
+}
+
+.header_div p
+{
+    font-family:'Special Elite',cursive;
+    font-weight:bold;
+    color:aquamarine;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.main_div button
+{
+    font-family: 'Special Elite',cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color:cyan;
+    color:crimson;
+    width: 100%;
+    line-height: 3;
+    font-size: larger;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
